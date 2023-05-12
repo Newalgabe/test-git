@@ -1,0 +1,5 @@
+# igmore this folder
+ignorefolder/
+
+# ignore all pdf files 
+*.pdf
